@@ -18,9 +18,9 @@ This project contains 5 pages:
 - Navigation between pages
 
 ## Screenshots
-![Login](login.png)- login.png
-![Register](register.png)- register.png
-![Forget-Password](forgot-password.png)- forgot-password.png
-![Reset-Password](reset-password.png)- reset-password.png
-![Dashboard](dashboard.png) -dashboard.png
+![Login](login.png)- Login
+![Register](register.png)- Register
+![Forget-Password](forgot-password.png)- Forget-Password
+![Reset-Password](reset-password.png)- Reset-Password
+![Dashboard](dashboard.png) Dashboard
 
