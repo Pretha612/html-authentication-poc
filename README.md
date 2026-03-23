@@ -1,11 +1,26 @@
-HTML Authentication System
+# Authentication System
 
-Pages:
-Login
-Register
-Forgot Password
-Reset Password
-Dashboard
+This project contains 5 pages:
+- Login Page
+- Register Page
+- Forgot Password Page
+- Reset Password Page
+- Dashboard Page
 
-No CSS or JavaScript used.
-All pages connected using anchor tags.
+## Technologies Used
+- HTML
+- Bootstrap 5
+- Custom CSS
+
+## Features
+- Responsive design
+- Clean UI using Bootstrap
+- Navigation between pages
+
+## Screenshots
+![Login](screenshots/login.png)- login.png
+- register.png
+- forgot-password.png
+- reset-password.png
+- dashboard.png
+
