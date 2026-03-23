@@ -21,6 +21,6 @@ This project contains 5 pages:
 ![Login](login.png)- login.png
 ![Register](register.png)- register.png
 ![Forget-Password](forgot-password.png)- forgot-password.png
-![Reset-Password](rest-password.png)- reset-password.png
+![Reset-Password](reset-password.png)- reset-password.png
 ![Dashboard](dashboard.png) -dashboard.png
 
