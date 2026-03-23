@@ -20,7 +20,7 @@ This project contains 5 pages:
 ## Screenshots
 ![Login](login.png)- login.png
 ![Register](register.png)- register.png
-![Forget-Password](forget-password.png)- forgot-password.png
+![Forget-Password](forgot-password.png)- forgot-password.png
 ![Reset-Password](rest-password.png)- reset-password.png
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.png) -dashboard.png
 
